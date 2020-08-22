@@ -7,6 +7,9 @@ This aplication was thought to practice with GUI and POO because I only have had
 For the GUI, I use Tkinter library. The next libraries are used to work with the time of the computer and thus be able to configure the alarm.
 
 ```
+from tkinter import *
+from tkinter import ttk
+
 import datetime
 import time
 import winsound
